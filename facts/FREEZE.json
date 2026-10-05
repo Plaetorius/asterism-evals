@@ -1,0 +1,33 @@
+{
+ "items_sha256": "5df5826158b450937a1fc9078aa7963ebfcfd308e8053e0109f9eec785d001e9",
+ "sample_sha256": "ae3f0d9927f9c03d8dfe5b53b6b7802e2f8a3b4ef6547b83a5b1570fb78f3378",
+ "rejected_sha256": "241cf2029489710908ffea0b1fce077ef1c394f3b02390907940603597aa41ad",
+ "qgen_sha256": "a12c2c3dc79c446e3c774564e1226c039c40201e0f949d8fc723a904b866a5f5",
+ "n_qgen": 130,
+ "batches_sha256": "c8ce753dbf54b4bfabfbf4b3d1ac57afec07f55c7ded4a967092239abacab91f",
+ "arm_prompts_sha256": "79b7f2c39b0064e1167fe68a1976a7c01edefd2e751dbaed0840482cd5b77485",
+ "n_arm_prompts": 152,
+ "protocol_sha256": "2a23e46c45da40bb5318fc1affb1d133078bb0af3553a98cd509ef4eff5fe1bd",
+ "eval_files": {
+  "brief_core.md": "b414156f94c5f23c5e24e0521074339c40921f5e51c58d1b0ed93f68fc9976bc",
+  "prompts_qgen.md": "f2d26a2129cbdc4f23b972130cc69cc7ee0c0fa3f2de995c6f32f3ad1d2aa489",
+  "tools_A.md": "3e8ec0c1c88f7565ba4a8874e75c4752b54170badce8d99f1753bc5129def41d",
+  "tools_B.md": "f4f7db727e88a817e94eeef6479619ac220e163f05074bc2c0f20690b72c8640",
+  "tools_C.md": "2ccb501cad99beec81596eb75e904544d0e449bab32c284efc8381d6ba7615ad",
+  "tools_D.md": "95ec4aa660b86c57aa5f2d5bf9184470f60d2e48e6b6ee158203848ffa65f1b9"
+ },
+ "code": {
+  "__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "build.py": "32a21f2e57b5700c2f8f71370ddfea17b686b3bcf3957896e8a52ad61d510688",
+  "runner.py": "c1b2450a4dd596cea9f380c91fd0b305a2171c1610e730e0bdfd456f4bf3970d",
+  "study.py": "331d60602b803cbda1c8e1cfca64eff15bebbf8a80ba35ec76450770902bff9b"
+ },
+ "shared_code": {
+  "bench/units.py": "bb332d306c95eaac0dd6572c65c0c515aab1c3e5a056a56739203cced8b39511",
+  "meta2h/audit.py": "65116d758db8f4ba21270de8d0e2498610d46a6202d56d842ba7eeb1a7ee7496",
+  "h2h/audit.py": "b4c924546304bd03a5ca421cd977097a669c1408b8d98542c111e453117a2616"
+ },
+ "wrapper_sha256": "5400f2b14fd3a3daa0cd810b4f9bd8dce80ae25fba7f1787f6f1ec8f12872d59",
+ "pint_version": "0.26.1",
+ "snapshot_sha256": "5fab2545e145ef4fb343a7f6dcfbd6a6864c8c0d3153d6945be6985862157439"
+}

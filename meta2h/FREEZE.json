@@ -1,0 +1,30 @@
+{
+ "protocol_sha256": "3764464da61cc7d12d7691fad99d16bb2f25a16c7e53045072e9f3e0b690c4a3",
+ "h2h_audit_sha256": "b4c924546304bd03a5ca421cd977097a669c1408b8d98542c111e453117a2616",
+ "wrapper_sha256": "5400f2b14fd3a3daa0cd810b4f9bd8dce80ae25fba7f1787f6f1ec8f12872d59",
+ "snapshot_file_sha256": "5fab2545e145ef4fb343a7f6dcfbd6a6864c8c0d3153d6945be6985862157439",
+ "tasks_sha256": "95b1097876ea6957080a205f118e6785d4c30131eb24fd18eb5cac8d098bea9c",
+ "candidates_sha256": "fcc35763e32fcf13fab59bee9f49b52d49ecd09d92cfb86445860798a04e3f4b",
+ "snapshot_sha256": "5fab2545e145ef4fb343a7f6dcfbd6a6864c8c0d3153d6945be6985862157439",
+ "arm_prompts_sha256": "77193347d50d2110605545a560c492f50039ccc13cabe2ef56b61bec321a3ca8",
+ "n_arm_prompts": 48,
+ "eval_files_sha256": {
+  "brief_core.md": "0ae226f8bcaff338639c0d53909a0270e4c0e4915cc643a447b8ef16ed320d46",
+  "prompts/verify.md": "1b39346d3f011513d99e2d726cad53db98297b3f2f46b683beb3817fa38f8bba",
+  "tools_A.md": "b8dae43eaa38d368d1617f7a10a302a0dd76ca55bb959f75744d90d1da5ecb59",
+  "tools_B.md": "626a0a3353a52af9df470ca10f6f50d05166f4f8cc254ad74d64008d5674afd4",
+  "tools_C.md": "bafc6344edea5789504b313c31847c173f1e0b83d289da15bf017a58c6972e00",
+  "tools_D.md": "08bc117a246dc768e23dfc6bd57dd7247803f981dab0e57c11e21f8543a28a1e"
+ },
+ "code_sha256": {
+  "__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "audit.py": "65116d758db8f4ba21270de8d0e2498610d46a6202d56d842ba7eeb1a7ee7496",
+  "run.py": "c1328faec6b7f168517fe1c7c9d85f70d8d771a279ee3fecade69b7af11f83fb",
+  "score.py": "67c9aefaf712659b73446412395e7a344ec1d4f610b3e103e32cec70552c92c3",
+  "verify.py": "fa955fccb2eefa0a6d1bee857c630a9ddd71196a312d0aa1166f30d737cfe05e"
+ },
+ "seeds": {
+  "pool_shuffle": 20261008,
+  "second_verifier_sample": 20261009
+ }
+}
